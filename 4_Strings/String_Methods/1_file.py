@@ -1,0 +1,1 @@
+print(dir(str))   # used to see the methods present inside <str> class
